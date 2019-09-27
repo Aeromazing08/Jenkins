@@ -1,1 +1,8 @@
-
+public class practice
+{
+  public static void main(String[]args)
+    {
+        System.out.println("Thanks Lord")
+    }
+    System.exit(0);0
+}    
