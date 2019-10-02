@@ -1,4 +1,4 @@
-public clas outputs
+public class outputs
 {
   public static void main(String[]args)
    {
