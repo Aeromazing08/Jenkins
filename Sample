@@ -4,5 +4,5 @@ public class practice
     {
         System.out.println("Thanks Lord")
     }
-    System.exit(0);0
+    System.exit(0)
 }    
